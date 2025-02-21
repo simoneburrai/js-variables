@@ -27,5 +27,5 @@ const sum = numOne + numTwo + numThree;
 console.log(sum); // Output: 56
 
 // 6. Imposta questa variabile come somma di numOne, numTwo, numThree diviso numOne
-const numBytes = sum / numOne;
+const numBytes = sum / numOne; //or (numOne + numTwo + numThree) / numOne
 console.log(numBytes); // Output: 7
