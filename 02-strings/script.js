@@ -29,7 +29,5 @@ console.log(`${firstName} ${lastName}`);
 
 // 4. Imposta questa variabile utilizzando una proprietà
 // sulla variabile alphabet per ottenere la sua lunghezza
-const numberOfLettersInAlphabet = null;
+const numberOfLettersInAlphabet = alphabet.length;
 console.log(numberOfLettersInAlphabet); // Output: 26
-
-// git commit -m "feat:js:02-strings ex.1"
